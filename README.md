@@ -19,19 +19,19 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 ## Education
 
+### Agastya International Foundation 
+
+[https://www.agastya.org/donate/](https://www.agastya.org/donate/)
+
+
 ### Akshaya Patra Foundation
 
 [https://www.akshayapatra.org/](https://www.akshayapatra.org/)
 
 
-### Wildlife SOS
+### Isha Vidhya (Isha Outreach)
 
-[https://wildlifesos.org/sponsor-a-child/](https://wildlifesos.org/sponsor-a-child/)
-
-
-### Open Space Foundation
-
-[https://openspacefoundation.in/](https://openspacefoundation.in/)
+[https://www.ishaoutreach.org/en/isha-vidhya/donate](https://www.ishaoutreach.org/en/isha-vidhya/donate)
 
 
 ### Make A Difference (MAD)
@@ -39,44 +39,56 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://makeadiff.in/](https://makeadiff.in/)
 
 
-### Teach For India
+### Open Space Foundation
 
-[https://www.teachforindia.org/](https://www.teachforindia.org/)
-
-### Isha Vidhya (Isha Outreach)
-
-[https://www.ishaoutreach.org/en/isha-vidhya/donate](https://www.ishaoutreach.org/en/isha-vidhya/donate)
+[https://openspacefoundation.in/](https://openspacefoundation.in/)
 
 
 ### Pratham Books
 
 [https://prathambooks.org/donate/](https://prathambooks.org/donate/)
 
-### Agastya International Foundation 
+### Teach For India
 
-[https://www.agastya.org/donate/](https://www.agastya.org/donate/)
+[https://www.teachforindia.org/](https://www.teachforindia.org/)
+
+
+### Wildlife SOS
+
+[https://wildlifesos.org/sponsor-a-child/](https://wildlifesos.org/sponsor-a-child/)
 
 
 ## Wildlife
+
+### Bannerghatta Zoo
+
+[https://bannerghattabiologicalpark.org/adopt](https://bannerghattabiologicalpark.org/adopt)
+
+
+### Bat Conservation
+
+[https://www.facebook.com/batconservationindia/](https://www.facebook.com/batconservationindia/)
+
 
 ### Karnataka Zoos
 
 [https://www.zoosofkarnataka.com/getinvolved](https://www.zoosofkarnataka.com/getinvolved)
 
 
-### Pilikula Zoo
-
-[http://pilikula.com/adoption.html](http://pilikula.com/adoption.html)
-
-
-### Aagumne Research
+### Madras Crocodile Bank/Aagumne Research
 
 [http://madrascrocodilebank.org/web/adopt_a_reptile](http://madrascrocodilebank.org/web/adopt_a_reptile)
 
 
-### Bat Conservation
+### Nature Conservation Foundation
 
-[https://www.facebook.com/batconservationindia/](https://www.facebook.com/batconservationindia/)
+[https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
+
+
+### Pilikula Zoo
+
+[http://pilikula.com/adoption.html](http://pilikula.com/adoption.html)
+
 
 
 ### Wildlife SOS
@@ -86,35 +98,11 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://wildlifesos.org/wall-of-dreams/](https://wildlifesos.org/wall-of-dreams/)
 
 
-### Bannerghatta Zoo
-
-[https://bannerghattabiologicalpark.org/adopt](https://bannerghattabiologicalpark.org/adopt)
 
 
-### Nature Conservation Foundation
-
-[https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
 
 
 ## Environment
-
-### Sankalptaru
-
-[https://sankalptaru.org/location/](https://sankalptaru.org/location/)
-
-
-### Cauvery Calling (Isha Outreach)
-
-[https://www.ishaoutreach.org/en/cauvery-calling/plant-trees](https://www.ishaoutreach.org/en/cauvery-calling/plant-trees)
-
-### Grow Trees
-
-[https://www.grow-trees.com/index.php?scrolleTreeCard](https://www.grow-trees.com/index.php?scrolleTreeCard)
-
-
-### One Tree Planted (Global)
-
-[https://onetreeplanted.org/products/india](https://onetreeplanted.org/products/india)
 
 
 ### Arbor Day Foundation (Global)
@@ -126,17 +114,39 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://carbonfund.org/product-category/plant-trees/](https://carbonfund.org/product-category/plant-trees/)
 
 
+### Cauvery Calling (Isha Outreach)
+
+[https://www.ishaoutreach.org/en/cauvery-calling/plant-trees](https://www.ishaoutreach.org/en/cauvery-calling/plant-trees)
+
+### Grow Trees
+
+[https://www.grow-trees.com/index.php?scrolleTreeCard](https://www.grow-trees.com/index.php?scrolleTreeCard)
+
+
 ### Ocean Conservancy (Global)
+
 [https://teamseas.org/](https://teamseas.org/)
+
+
+### One Tree Planted (Global)
+
+[https://onetreeplanted.org/products/india](https://onetreeplanted.org/products/india)
+
+
+
+### Sankalptaru
+
+[https://sankalptaru.org/location/](https://sankalptaru.org/location/)
+
 
 
 ## Crowdfunding Platforms
 
-### Milaap
-[https://milaap.org/crowdfunding/fundraisers](https://milaap.org/crowdfunding/fundraisers?inr_tax_exempt=true)
-
 
 ### Ketto
 [https://www.ketto.org/crowdfunding/fundraisers](https://www.ketto.org/crowdfunding/fundraisers)
+
+### Milaap
+[https://milaap.org/crowdfunding/fundraisers](https://milaap.org/crowdfunding/fundraisers?inr_tax_exempt=true)
 
 
