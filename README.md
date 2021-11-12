@@ -43,6 +43,15 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.teachforindia.org/](https://www.teachforindia.org/)
 
+### Isha Vidhya (Isha Outreach)
+
+[https://www.ishaoutreach.org/en/isha-vidhya/donate](https://www.ishaoutreach.org/en/isha-vidhya/donate)
+
+
+### Pratham Books
+
+[https://prathambooks.org/donate/](https://prathambooks.org/donate/)
+
 
 ## Wildlife
 
@@ -90,7 +99,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://sankalptaru.org/location/](https://sankalptaru.org/location/)
 
 
-### Isha Outreach
+### Cauvery Calling (Isha Outreach)
 
 [https://www.ishaoutreach.org/en/cauvery-calling/plant-trees](https://www.ishaoutreach.org/en/cauvery-calling/plant-trees)
 
