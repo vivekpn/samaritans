@@ -34,6 +34,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://openspacefoundation.in/](https://openspacefoundation.in/)
 
 
+### Make A Difference (MAD)
+
+[https://makeadiff.in/](https://makeadiff.in/)
+
 
 ## Wildlife
 
