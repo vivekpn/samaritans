@@ -39,6 +39,11 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://makeadiff.in/](https://makeadiff.in/)
 
 
+### Teach For India
+
+[https://www.teachforindia.org/](https://www.teachforindia.org/)
+
+
 ## Wildlife
 
 ### Karnataka Zoos
