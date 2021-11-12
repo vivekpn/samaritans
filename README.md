@@ -124,3 +124,15 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 ### Ocean Conservancy (Global)
 [https://teamseas.org/](https://teamseas.org/)
+
+
+## Crowdfunding Platforms
+
+### Milaap
+[https://milaap.org/crowdfunding/fundraisers](https://milaap.org/crowdfunding/fundraisers?inr_tax_exempt=true)
+
+
+### Ketto
+[https://www.ketto.org/crowdfunding/fundraisers](https://www.ketto.org/crowdfunding/fundraisers)
+
+
