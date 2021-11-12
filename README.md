@@ -92,7 +92,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
 
 
-## Planting Trees
+## Environment
 
 ### Sankalptaru
 
@@ -113,10 +113,14 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://onetreeplanted.org/products/india](https://onetreeplanted.org/products/india)
 
 
-### Team Trees (Global)
+### Arbor Day Foundation (Global)
 
 [https://teamtrees.org/](https://teamtrees.org/)
 
 
 ### Carbon Fund (Global)
 [https://carbonfund.org/product-category/plant-trees/](https://carbonfund.org/product-category/plant-trees/)
+
+
+### Ocean Conservancy (Global)
+[https://teamseas.org/](https://teamseas.org/)
