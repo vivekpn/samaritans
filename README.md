@@ -6,7 +6,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 ## Language and Culture
 
-### Sancharaya
+### Sanchaya
 
 [https://sanchaya.org/support-us/](https://sanchaya.org/support-us/)
 
