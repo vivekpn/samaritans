@@ -52,6 +52,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://prathambooks.org/donate/](https://prathambooks.org/donate/)
 
+### Agastya International Foundation 
+
+[https://www.agastya.org/donate/](https://www.agastya.org/donate/)
+
 
 ## Wildlife
 
