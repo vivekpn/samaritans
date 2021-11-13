@@ -79,6 +79,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://bannerghattabiologicalpark.org/adopt](https://bannerghattabiologicalpark.org/adopt)
 
 
+#### Sri Chamarajendra Zoological Gardens
+[https://www.mysuruzoo.info/adoption](https://www.mysuruzoo.info/adoption)
+
+
 #### Pilikula Zoo
 
 [http://pilikula.com/adoption.html](http://pilikula.com/adoption.html)
