@@ -6,6 +6,11 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 ## Language and Culture
 
+### Gokhale Institute of Public Affairs 
+
+[http://www.gipa-bng.org](http://www.gipa-bng.org/)
+
+
 ### Sanchaya
 
 [https://sanchaya.org/support-us/](https://sanchaya.org/support-us/)
@@ -60,9 +65,6 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 ## Wildlife
 
-### Bannerghatta Zoo
-
-[https://bannerghattabiologicalpark.org/adopt](https://bannerghattabiologicalpark.org/adopt)
 
 
 ### Bat Conservation
@@ -71,6 +73,17 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 
 ### Karnataka Zoos
+
+#### Bannerghatta Zoo
+
+[https://bannerghattabiologicalpark.org/adopt](https://bannerghattabiologicalpark.org/adopt)
+
+
+#### Pilikula Zoo
+
+[http://pilikula.com/adoption.html](http://pilikula.com/adoption.html)
+
+#### Other Zoos
 
 [https://www.zoosofkarnataka.com/getinvolved](https://www.zoosofkarnataka.com/getinvolved)
 
@@ -84,10 +97,6 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
 
-
-### Pilikula Zoo
-
-[http://pilikula.com/adoption.html](http://pilikula.com/adoption.html)
 
 
 
