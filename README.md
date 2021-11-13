@@ -19,6 +19,9 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://sanchifoundation.com/support-us/](https://sanchifoundation.com/support-us/)
 
+### Carnatic for a Cause
+
+[https://www.carnaticforacause.org/](https://www.carnaticforacause.org/)
 
 
 
