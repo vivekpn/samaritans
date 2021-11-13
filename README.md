@@ -110,8 +110,12 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://wildlifesos.org/wall-of-dreams/](https://wildlifesos.org/wall-of-dreams/)
 
+### Wildlife Trust of India
+[https://www.wti.org.in/](https://www.wti.org.in/)
 
 
+### World Wide Fund for Nature India
+[https://www.wwfindia.org/](https://www.wwfindia.org/)
 
 
 
