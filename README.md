@@ -68,8 +68,15 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://wildlifesos.org/sponsor-a-child/](https://wildlifesos.org/sponsor-a-child/)
 
 
+### Kaanana Magazine
+
+[https://kaananamag.in/](https://kaananamag.in/)
+
+
 ## Wildlife
 
+### Ashoka Trust for Research in Ecology and the Environment
+[https://www.atree.org/](https://www.atree.org/)
 
 
 ### Bat Conservation
@@ -107,6 +114,14 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
 
 
+### Sanctuary Nature Foundation
+
+[https://sanctuarynaturefoundation.org/](https://sanctuarynaturefoundation.org/)
+
+
+### Wildlife Conservation Society India
+
+[https://india.wcs.org/](https://india.wcs.org/)
 
 
 ### Wildlife SOS
@@ -114,6 +129,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://wildlifesos.org/sponsor-an-animal/](https://wildlifesos.org/sponsor-an-animal/)
 
 [https://wildlifesos.org/wall-of-dreams/](https://wildlifesos.org/wall-of-dreams/)
+
 
 ### Wildlife Trust of India
 [https://www.wti.org.in/](https://www.wti.org.in/)
@@ -133,6 +149,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 
 ### Carbon Fund (Global)
+
 [https://carbonfund.org/product-category/plant-trees/](https://carbonfund.org/product-category/plant-trees/)
 
 
@@ -155,7 +172,6 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://onetreeplanted.org/products/india](https://onetreeplanted.org/products/india)
 
 
-
 ### Sankalptaru
 
 [https://sankalptaru.org/location/](https://sankalptaru.org/location/)
@@ -163,7 +179,6 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 
 ## Crowdfunding Platforms
-
 
 ### Ketto
 [https://www.ketto.org/crowdfunding/fundraisers](https://www.ketto.org/crowdfunding/fundraisers)
