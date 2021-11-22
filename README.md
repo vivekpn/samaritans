@@ -39,6 +39,11 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://www.akshayapatra.org/](https://www.akshayapatra.org/)
 
 
+### Centre for Wildlife Studies
+
+[https://cwsindia.org/](https://cwsindia.org/)
+
+
 ### Isha Vidhya (Isha Outreach)
 
 [https://www.ishaoutreach.org/en/isha-vidhya/donate](https://www.ishaoutreach.org/en/isha-vidhya/donate)
@@ -47,6 +52,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 ### Make A Difference (MAD)
 
 [https://makeadiff.in/](https://makeadiff.in/)
+
+### Kaanana Magazine
+
+[https://kaananamag.in/](https://kaananamag.in/)
 
 
 ### Open Space Foundation
@@ -67,10 +76,6 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://wildlifesos.org/sponsor-a-child/](https://wildlifesos.org/sponsor-a-child/)
 
-
-### Kaanana Magazine
-
-[https://kaananamag.in/](https://kaananamag.in/)
 
 
 ## Wildlife
