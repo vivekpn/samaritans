@@ -38,6 +38,9 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.akshayapatra.org/](https://www.akshayapatra.org/)
 
+### Aviratha
+
+[http://aviratha.org/](http://aviratha.org/)
 
 ### Centre for Wildlife Studies
 
