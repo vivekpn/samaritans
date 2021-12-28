@@ -51,14 +51,13 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.ishaoutreach.org/en/isha-vidhya/donate](https://www.ishaoutreach.org/en/isha-vidhya/donate)
 
+### Kaanana Magazine
+
+[https://kaananamag.in/](https://kaananamag.in/)
 
 ### Make A Difference (MAD)
 
 [https://makeadiff.in/](https://makeadiff.in/)
-
-### Kaanana Magazine
-
-[https://kaananamag.in/](https://kaananamag.in/)
 
 
 ### Open Space Foundation
@@ -69,6 +68,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 ### Pratham Books
 
 [https://prathambooks.org/donate/](https://prathambooks.org/donate/)
+
+### Shakthidhama - Women's rehabilitation and development center
+
+[http://www.shakthidhama.org/](http://www.shakthidhama.org/)
 
 ### Teach For India
 
