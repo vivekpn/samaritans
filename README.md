@@ -192,6 +192,9 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://sankalptaru.org/location/](https://sankalptaru.org/location/)
 
 
+### SayTrees
+[https://www.saytrees.org/](https://www.saytrees.org/)
+
 
 ## Crowdfunding Platforms
 
