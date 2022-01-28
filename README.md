@@ -38,6 +38,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.akshayapatra.org/](https://www.akshayapatra.org/)
 
+### Amrutha Shishu Nivasa
+
+[https://shishunivasa.org.in/](https://shishunivasa.org.in/)
+
 ### Aviratha
 
 [http://aviratha.org/](http://aviratha.org/)
@@ -46,6 +50,12 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://cwsindia.org/](https://cwsindia.org/)
 
+### Deepa Academy for Differently Abled
+[https://www.deepaacademy.org](https://www.deepaacademy.org)
+
+### Gnana Jyothi Trust for the Disabled
+
+[http://www.gnanajyothi.org/](http://www.gnanajyothi.org/)
 
 ### Isha Vidhya (Isha Outreach)
 
@@ -83,6 +93,10 @@ Here is a list of charities with a link to donate. The list primarily contains c
 [https://wildlifesos.org/sponsor-a-child/](https://wildlifesos.org/sponsor-a-child/)
 
 
+## Health
+
+### Karunashraya (Cancer treatment)
+[https://karunashraya.org/](https://karunashraya.org/)
 
 ## Wildlife
 
