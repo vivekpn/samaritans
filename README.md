@@ -14,6 +14,7 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [http://www.gipa-bng.org](http://www.gipa-bng.org/)
 
+
 ### Rashtrotthana Parishat
 
 [https://rashtrotthana.org/](https://rashtrotthana.org/)
@@ -25,6 +26,9 @@ Here is a list of charities with a link to donate. The list primarily contains c
 ### Sanchi Foundation
 
 [https://sanchifoundation.com/support-us/](https://sanchifoundation.com/support-us/)
+
+### Sri Ramakrishna Ashrama, Mysuru
+[http://www.srkmys.org/donate/](http://www.srkmys.org/donate/)
 
 
 ## Education
