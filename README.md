@@ -209,9 +209,16 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://sankalptaru.org/location/](https://sankalptaru.org/location/)
 
+### Save Green
+[https://www.savegreen.in/savegreen/about.html](https://www.savegreen.in/savegreen/about.html)
 
 ### SayTrees
 [https://www.saytrees.org/](https://www.saytrees.org/)
+
+### Team Hasiru
+[https://www.teamhasiru.in/](https://www.teamhasiru.in/)
+
+
 
 
 ## Crowdfunding Platforms
