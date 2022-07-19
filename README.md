@@ -146,6 +146,9 @@ Here is a list of charities with a link to donate. The list primarily contains c
 
 [https://www.ncf-india.org/donate](https://www.ncf-india.org/donate)
 
+### Prani
+[https://www.prani.co.in/support-prani](https://www.prani.co.in/support-prani)
+
 
 ### Sanctuary Nature Foundation
 
